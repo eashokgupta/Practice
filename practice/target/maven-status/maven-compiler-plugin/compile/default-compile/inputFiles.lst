@@ -1,0 +1,16 @@
+D:\practice\src\main\java\com\personal\practice\entity\Agent.java
+D:\practice\src\main\java\com\personal\practice\repository\AgentRepository.java
+D:\practice\src\main\java\com\personal\practice\service\ServiceImpl\AgentServiceImpl.java
+D:\practice\src\main\java\com\personal\practice\PracticeApplication.java
+D:\practice\src\main\java\com\personal\practice\mapper\AgentMapper.java
+D:\practice\src\main\java\com\personal\practice\mapper\PropertyManagementMapper.java
+D:\practice\src\main\java\com\personal\practice\repository\PropertyManagementRepository.java
+D:\practice\src\main\java\com\personal\practice\dto\PropertyManagementDto.java
+D:\practice\src\main\java\com\personal\practice\service\AgentService.java
+D:\practice\src\main\java\com\personal\practice\service\ServiceImpl\PropertyManagementServiceImpl.java
+D:\practice\src\main\java\com\personal\practice\controller\PropertyManagementController.java
+D:\practice\src\main\java\com\personal\practice\service\PropertyManagementService.java
+D:\practice\src\main\java\com\personal\practice\entity\PropertyManagement.java
+D:\practice\src\main\java\com\personal\practice\config\SwaggerConfiguration.java
+D:\practice\src\main\java\com\personal\practice\controller\AgentController.java
+D:\practice\src\main\java\com\personal\practice\dto\AgentDto.java

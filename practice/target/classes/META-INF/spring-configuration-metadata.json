@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.personal.practice.config.SwaggerConfiguration",
+      "sourceType": "com.personal.practice.config.SwaggerConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.properties",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.personal.practice.config.SwaggerConfiguration"
+    }
+  ],
+  "hints": []
+}
